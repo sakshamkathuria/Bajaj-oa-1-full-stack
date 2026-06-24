@@ -32,7 +32,7 @@ function App() {
       }
 
       const res = await axios.post(
-        "https://bajaj-backend-zrs0.onrender.com/l",
+        "https://bajaj-backend-zrs0.onrender.com/bfhl",
         { data: arr }
       );
 
